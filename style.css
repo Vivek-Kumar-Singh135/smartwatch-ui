@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 200px;
+    height: 250px;
+    width: 180px;
+    border: 2px black solid;
+    background-color: rgb(56, 55, 55);
+    border-radius: 20%;
+}
+
+.watch {
+    height: 210px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: black;
+    border-radius: 20%;
+}
+
+#row2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#row3 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
